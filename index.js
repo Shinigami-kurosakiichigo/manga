@@ -1,0 +1,1 @@
+alert('If you do not like anime/manga, you can exit from this webpage')
